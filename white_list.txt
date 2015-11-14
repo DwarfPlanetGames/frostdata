@@ -1,0 +1,10 @@
+sys.E
+sys.Graphics
+sys.Input
+com.badlogic.gdx.Screen
+com.badlogic.gdx.Input.Keys
+com.badlogic.gdx.Input.Buttons
+com.badlogic.gdx.math.Rectangle
+com.badlogic.gdx.math.Vector2
+com.badlogic.gdx.graphics.Texture
+ml.dpgames.frostbyte.machine.browser.BrowserAlias
