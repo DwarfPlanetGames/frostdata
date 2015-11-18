@@ -1,0 +1,21 @@
+How to use the external classes (Must be on the FrostByte white-list):
+
+Add the package to "packages.txt"
+
+packages.txt:
+	com.example.package
+	com.another.example.package
+
+Add the class to "classes.txt"
+
+classes.txt:
+	com.example.package.Class
+	com.example.package.AnotherClass
+
+Example Program (Output to the terminal):
+
+1. Add "sys" to "packages.txt"
+2. Add "sys.E" to "classes.txt"
+3. At the bottom of "main.js" add "E.println("Hello, World!");"
+
+Now if you open FrostByte and run your program you should see "Hello, World!" appear on the screen.
